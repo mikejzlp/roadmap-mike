@@ -109,13 +109,13 @@ Para garantizar el control total del ciclo de vida del producto, complemento mi 
 
 <div align="center">
 
-<!-- IMPORTANTE: Cambia 'mikejlzp' por tu nombre de usuario real de GitHub en todos los enlaces de abajo -->
+<!-- IMPORTANTE: Cambia 'mikejzlp' por tu nombre de usuario real de GitHub en todos los enlaces de abajo -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikejlzp&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikejzlp&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikejlzp&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikejzlp&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikejlzp&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikejzlp&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
@@ -127,6 +127,6 @@ Para garantizar el control total del ciclo de vida del producto, complemento mi 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mikejlzp&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=mikejzlp&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
